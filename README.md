@@ -42,7 +42,7 @@ CUDA_VISIBLE_DEVICES=0 ~/anaconda3/envs/sfa_susu/bin/python MMGA_target_oh_vs.py
 For domainnet126. 
 ```bash
 CUDA_VISIBLE_DEVICES=0 ~/anaconda3/envs/sfa_susu/bin/python MMGA_target_126.py --cls_par 0.3 --da uda --dset domainnet126 --gpu_id 0 --s 0 --t 1 --output_src /media/ts/tntbak2/Modelzoom/source_1024 --output ckps/target_mmga/ --seed 2020
-
+```
 You can also  refer to the file on [run.sh](./run.sh).
 
 
