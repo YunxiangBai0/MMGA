@@ -10,6 +10,7 @@ DOI: https://doi.org/10.1007/s11263-023-01892-w -->
   - `office-home` [Office-Home](https://drive.google.com/file/d/0B81rNlvomiwed0V1YUxQdC1uOTg/view)
   - `VISDA-C` [VISDA-C](https://github.com/VisionLearningGroup/taskcv-2017-public/tree/master/classification)
   - `domainnet126` [DomainNet (cleaned)](http://ai.bu.edu/M3SDA/)
+  
 You need to download the dataset,  modify the path of images in each '.txt' under the folder './data/'.
 
 The experiments are conducted on one GPU (NVIDIA RTX TITAN).
