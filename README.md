@@ -46,13 +46,6 @@ CUDA_VISIBLE_DEVICES=0 ~/anaconda3/envs/sfa_susu/bin/python MMGA_target_126.py -
 You can also  refer to the file on [run.sh](./run.sh).
 
 
-### Citation
-# Tang, S., Chang, A., Zhang, F. et al. Source-Free Domain Adaptation via Target Prediction Distribution Searching. Int J Comput Vis (2023). https://doi.org/10.1007/s11263-023-01892-w
-
-### Acknowledgement
-
-
-# The code is based on [DeepCluster(ECCV 2018)](https://github.com/facebookresearch/deepcluster) , [SHOT (ICML 2020, also source-free)](https://github.com/tim-learn/SHOT) and [IIC](https://github.com/sebastiani/IIC).
 
 
 ### Contact
